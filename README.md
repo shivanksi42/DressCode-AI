@@ -208,9 +208,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Project Link**: [https://github.com/yourusername/dresscode-ai](https://github.com/yourusername/dresscode-ai)
-- **Demo**: [Live Demo](https://your-demo-link.com)
-- **Issues**: [Bug Reports & Feature Requests](https://github.com/yourusername/dresscode-ai/issues)
+- **Project Link**: [https://github.com/yourusername/dresscode-ai](https://github.com/shivanksi42/DressCode-AI)
+- **Issues**: [Bug Reports & Feature Requests](https://github.com/shivanksi42/DressCode-AI/issues)
 
 ---
 
@@ -218,6 +217,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Shivam Kumar](https://github.com/shivanksi42)
 
 </div>
