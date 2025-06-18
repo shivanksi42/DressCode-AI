@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+tensorflow
+opencv-python
+boto3
+botocore
+pydantic
+python-dotenv
+aiofiles
+pillow
+scikit-learn
